@@ -48,7 +48,7 @@ body {
 }
 #left {
   clip-path: polygon(0 0, 100% 0, 50% 100%, 0 100%);
-  background-image: url("../imgs/IMG_9437.JPG");
+  background-image: url("../imgs/IMG_9437.jpg");
   background-position: -2vw;
   background-size: cover;
 }
